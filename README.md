@@ -41,3 +41,6 @@ Los datos fueron recopilados y procesados a partir de información pública disp
 
 ## 📊Publicación del dashboard
 El dashboard se encuentra publicado en _NovyPro_. El link está disponible debajo de la sección **About**.
+
+## 📁Documentación y tabla 
+En este repositorio encontrarán un arhivo _.doc_ con la documentación acerca del procesamiento de datos (incluyendo la descripción de cada variable empleada y medidas calculadas) y un archivo _.xlsx_ con la tabla importada en Power BI.
