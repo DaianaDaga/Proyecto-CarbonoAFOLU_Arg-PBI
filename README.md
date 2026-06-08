@@ -40,7 +40,7 @@ Los datos fueron recopilados y procesados a partir de información pública disp
 8.	Una parte importante del potencial de mitigación se concentra en proyectos que han alcanzado etapas avanzadas del proceso de validación y verificación.
 
 ## 📊Publicación del dashboard
-El dashboard se encuentra publicado en _NovyPro_. El link está disponible debajo de la sección **About**.
+El link al dashboard está disponible debajo de la sección **About**.
 
 ## 📁Documentación y tabla 
 En este repositorio encontrarán un arhivo _.doc_ con la documentación acerca del procesamiento de datos (incluyendo la descripción de cada variable empleada y medidas calculadas) y un archivo _.xlsx_ con la tabla importada en Power BI.
