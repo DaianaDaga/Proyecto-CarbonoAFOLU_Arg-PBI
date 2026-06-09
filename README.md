@@ -39,6 +39,10 @@ Los datos fueron recopilados y procesados a partir de información pública disp
 7.	Solo alrededor del 27 % de los proyectos incorporan certificación CCB.
 8.	Una parte importante del potencial de mitigación se concentra en proyectos que han alcanzado etapas avanzadas del proceso de validación y verificación.
 
+## 📌 Nota metodológica
+* Para fines exploratorios, cada proyecto fue asociado a una provincia principal, aunque algunos abarcan más de una jurisdicción.
+* Se eliminó el registro con ID 3993 (Carbon Group Program for sustainable low carbon crop and grassland management in Argentina) ya que había sido rechazado por Verra y no contaba con documentación (Rejected by Administrator).
+
 ## 📊Publicación del dashboard
 El link al dashboard está disponible debajo de la sección **About**.
 
